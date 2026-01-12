@@ -1,6 +1,6 @@
 {
-  "name": "nuxt-knob",
-  "version": "0.0.2",
+  "name": "@sounds-designed/nuxt-knob",
+  "version": "0.0.1",
   "description": "A Nuxt add-on module for creating knobs",
   "repository": {
     "type": "git",
