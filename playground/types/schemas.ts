@@ -1,7 +1,7 @@
 import * as z from 'zod'
 
 export interface INuxtKnobCustomizationOptions {
-
+  [key: string]: unknown
 }
 
 export const NuxtKnobCustomizationOptionsSchema = z.object({
